@@ -15,3 +15,6 @@ User will have to choose the boarding point and the drop location from the dropd
 ## this website is dockerized
 
 ![trainweb](https://github.com/Chidhambarash/train-service/assets/124718864/ae2ab218-8b21-4758-a7d9-237f8f19bb73)
+![trainweb1](https://github.com/Chidhambarash/train-service/assets/124718864/406bdd4a-67f6-4ba7-be3f-2adc97c6dc02)
+![trainweb2](https://github.com/Chidhambarash/train-service/assets/124718864/5f334399-28f9-4507-b71e-36beb299f7db)
+
