@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/TRAIN-SERVICE/static/css/main.2f6387c8.css",
-    "main.js": "/TRAIN-SERVICE/static/js/main.7d1f3198.js",
-    "index.html": "/TRAIN-SERVICE/index.html",
-    "main.2f6387c8.css.map": "/TRAIN-SERVICE/static/css/main.2f6387c8.css.map",
-    "main.7d1f3198.js.map": "/TRAIN-SERVICE/static/js/main.7d1f3198.js.map"
+    "main.css": "/train-service/static/css/main.2f6387c8.css",
+    "main.js": "/train-service/static/js/main.7d1f3198.js",
+    "index.html": "/train-service/index.html",
+    "main.2f6387c8.css.map": "/train-service/static/css/main.2f6387c8.css.map",
+    "main.7d1f3198.js.map": "/train-service/static/js/main.7d1f3198.js.map"
   },
   "entrypoints": [
     "static/css/main.2f6387c8.css",
