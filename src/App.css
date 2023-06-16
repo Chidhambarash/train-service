@@ -11,11 +11,19 @@
   border: 1px solid #ccc;
   box-sizing: border-box;
 }
+.child1::-webkit-scrollbar {
+  display: none;
+}
+
+
 .child2 {
   height: 80%;
   background-color: #f2f2f2;
   border: 1px solid #ccc;
   box-sizing: border-box;
+}
+.child2::-webkit-scrollbar {
+  display: none;
 }
 .container{
   height: 100vh;
@@ -26,6 +34,9 @@
   overflow-y: scroll;
  
 }
+.container::-webkit-scrollbar {
+  display: none;
+}
 .resultContainer{
   flex:1;
   display: flex;
@@ -33,12 +44,17 @@
   justify-content: center;
   margin: 5%;
   overflow-y: scroll;
-
+}
+.resultContainer::-webkit-scrollbar {
+  display: none;
 }
 
 .form{
   margin-left: 10%;
   padding:3%;
+}
+.form::-webkit-scrollbar {
+  display: none;
 }
 .results{
   display: inline-flex;
